@@ -1,0 +1,46 @@
+{
+ 
+  "Mühərriklər":[
+    {
+    "id":1,
+    "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"11199",
+    "img":"Mühərriklər1"
+    },
+
+    {
+    "id":2,
+    "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"11199",
+    "img":"Mühərriklər2"
+    },
+
+    {
+    "id":3,
+    "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"11199",
+    "img":"Mühərriklər3"
+    },
+
+    {
+    "id":4,
+    "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"11199",
+    "img":"Mühərriklər4"    
+    },
+
+    {
+    "id":5,
+    "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"5199",
+    "img":"Mühərriklər5"
+    },
+
+    {
+    "id":6,
+    "item":"Boyuk-Qayiq BRP SeaDoo GTI 130 at gücü SE Black Mango",
+    "price":"18199",
+    "img":"Mühərriklər6"
+    }
+ ]
+}
